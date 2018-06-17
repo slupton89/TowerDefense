@@ -1,1 +1,1 @@
-linguist-language=C-Sharp
+*.rb linguist-language=csharp
